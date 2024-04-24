@@ -5,3 +5,6 @@ The above project was inspired by a common exercise that the student surveyors d
 Info : http://www.geo.auth.gr/322/chapter043.html  (lang==greek)
 
 Topology , Types, Properties & Examples : http://portal.survey.ntua.gr/main/courses/cartography/cartoii/documentation/analytical_carto.pdf (lang==greek)
+
+output:
+![image](https://github.com/eee-Andrew/selection-of-optimal-projection-in-cartography/assets/98215048/d62fe179-0bd9-4997-8c21-291ad07855a8)
